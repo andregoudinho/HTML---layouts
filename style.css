@@ -14,6 +14,11 @@ body {
     margin: 10px;
 }
 
+.red {
+    background-color: red;
+    padding-right: 80px;
+}
+
 .flex{
     display: flex;
 }
